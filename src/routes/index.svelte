@@ -1,2 +1,19 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    
+    import { onMount } from 'svelte';
+    
+
+
+</script>
+
+<main>
+
+    <h1>Svelte Todo App</h1>
+    
+    <form></form>
+    
+    <ul></ul>
+
+</main>
+
+<style></style>
