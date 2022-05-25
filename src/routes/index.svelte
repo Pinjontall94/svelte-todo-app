@@ -43,6 +43,7 @@
 main {
     font-family: 'Overpass', sans-serif;
     font-size: 20px;
+    text-shadow: 2px 2px 4px slategray;
 }
 
 :global(body) {
